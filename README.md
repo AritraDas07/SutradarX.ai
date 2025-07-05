@@ -1,6 +1,6 @@
 # SutradharX: Programmable UPI Escrow on Aptos
 
-![SutradharX Logo](https://via.placeholder.com/150x50?text=SutradharX)
+![SutradharX Logo]("C:\Users\KIIT\Downloads\802d14bd-9b44-478f-ba2a-d11511a5345c.png")
 
 ## 🚀 Introduction
 
