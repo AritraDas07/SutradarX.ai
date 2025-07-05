@@ -1,6 +1,6 @@
 # SutradharX: Programmable UPI Escrow on Aptos
 
-![SutradharX Logo]![802d14bd-9b44-478f-ba2a-d11511a5345c](https://github.com/user-attachments/assets/bc345430-99ba-4cf9-9798-a1bd1e4df1dd)
+![802d14bd-9b44-478f-ba2a-d11511a5345c](https://github.com/user-attachments/assets/bc345430-99ba-4cf9-9798-a1bd1e4df1dd)
 
 
 ## 🚀 Introduction
